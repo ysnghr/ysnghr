@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Back-End Developer working at AREAL.ai.
+#### I'm a Software Engineer working at AREAL.ai.
 
 ##### NOW
 
@@ -14,3 +14,4 @@
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 💬 Ping me about **algorithms**, **development**, **python**, **aws**
 - 📫 Reach me: [linkedin.com/in/yasinuguraz](https://www.linkedin.com/in/yasinuguraz)
+- 📌 Check my personal page: [https://bento.me/yasinughur](https://bento.me/yasinughur)
